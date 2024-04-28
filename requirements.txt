@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+google-generativeai
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emojix

@@ -16,12 +16,13 @@
 ## Deployments
 
 App can be viewed on:
-* Netlify (SSR Application): [Netlify](https://tourofjsonschema.netlify.app)
+* LocalHost
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://tourofjsonschema.netlify.app)
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 <br>
 This project aims to provide people with insights into their WhatsApp conversations, allowing them to evaluate the dynamics of their relationships with others.
 <br>
@@ -64,7 +65,7 @@ Relation AI: Utilize natural language AI to analyze chat content and describe th
 Feel free to open issues or a PR!
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[product-screenshot]: public/deploy_img.png
+[product-screenshot]: img/visual.png
 [Python]: https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
 [Python-url]: https://docs.python.org/es/3.11/
 [Streamlit]: https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white
